@@ -2,9 +2,9 @@
 
 
 - <h2> Hi 👋, I’m Nicole.</h2>
-- 👀 I’m interested in learn front-end languages, tools and frameworks. 
-- 🌱 I’m currently learning front-end development through CIL-Academy, the IT Learning Centre of CECURE Intelligence Limited.
-- 💞️ I’m looking to collaborate on web development projects in the future. 
+- 👀 I’m interested in learn anything related to product and data, tools and frameworks. 
+- 🌱 I’m currently learning data analytics through Digitaley Drive.
+- 💞️ I’m looking to collaborate on creating digital products in the future. 
 - 📫 How to reach me moswa.nicole@gmail.com.
 - ⚡ Fun fact: I love reading books. 
 
